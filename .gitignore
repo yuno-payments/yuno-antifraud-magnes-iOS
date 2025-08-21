@@ -1,0 +1,17 @@
+# Swift Package Manager
+.build/
+.swiftpm/xcode/
+.swiftpm/configuration/
+
+# Xcode
+DerivedData/
+xcuserdata/
+*.xcworkspace
+*.xcodeproj/
+
+# macOS
+.DS_Store
+
+# Binaries / Archives (usar Releases en GitHub)
+*.xcframework
+*.zip
