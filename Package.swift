@@ -15,7 +15,7 @@ let package = Package(
         .binaryTarget(
             name: "YunoAntifraudMagnes",
             url: "https://github.com/yuno-payments/yuno-antifraud-magnes-iOS/releases/download/v1.0.0/YunoAntifraudMagnes.xcframework.zip",
-            checksum: "7df34de0ac64f9794c2332ff4f0610b563099ebc2f3987849cb70833bba7b792"
+            checksum: "93c470f4dc6e0e7e2df7af3438a860c924e5953e9e4be57bbe08da68b2b45836"
         ),
         .binaryTarget(
             name: "PPRiskMagnes",
